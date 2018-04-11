@@ -1,0 +1,1147 @@
+# Copyright (C) 2018 edumodo
+# This file is distributed under the same license as the edumodo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: edumodo\n"
+"Report-Msgid-Bugs-To: https://www.themexpert.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: ThemeXpert <info@themexpert.com>\n"
+"Language-Team: ThemeXpert <info@themexpert.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:47
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:52
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40, comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43, comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44, comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:67, footer.php:85
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:67, footer.php:85
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:69, footer.php:87
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: inc/learnpress.php:38
+msgid "Course Features"
+msgstr ""
+
+#: inc/learnpress.php:43, sensei/single-course.php:77
+msgid "Lessons"
+msgstr ""
+
+#: inc/learnpress.php:50
+msgid "Duration"
+msgstr ""
+
+#: inc/learnpress.php:58
+msgid "Max Students"
+msgstr ""
+
+#: inc/learnpress.php:66
+msgid "Enrolled"
+msgstr ""
+
+#: inc/learnpress.php:74
+msgid "Re-take Course"
+msgstr ""
+
+#: inc/learnpress.php:84
+msgid "Skill level"
+msgstr ""
+
+#: inc/learnpress.php:93
+msgid "Language"
+msgstr ""
+
+#: inc/learnpress.php:100
+msgid "Assessments"
+msgstr ""
+
+#: inc/learnpress.php:101
+msgid "Yes"
+msgstr ""
+
+#: inc/learnpress.php:101
+msgid "Self"
+msgstr ""
+
+#: inc/learnpress.php:136
+msgid "Created by: "
+msgstr ""
+
+#: inc/learnpress.php:140
+msgid "Last updated: "
+msgstr ""
+
+#: inc/learnpress.php:195
+msgid "Related Courses"
+msgstr ""
+
+#: inc/learnpress.php:252
+msgid "Enroll Now"
+msgstr ""
+
+#: inc/learnpress.php:278
+msgid "You May Like"
+msgstr ""
+
+#: inc/learnpress.php:313
+msgid "Free"
+msgstr ""
+
+#: inc/one-click-demo.php:6
+msgid "Edumodo Demo"
+msgstr ""
+
+#: inc/one-click-demo.php:43, inc/plugin-activation.php:35
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/one-click-demo.php:44
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/options/blog.php:4
+msgid "Blog"
+msgstr ""
+
+#: inc/options/blog.php:11
+msgid "Related Post"
+msgstr ""
+
+#: inc/options/blog.php:18
+msgid "Single Page Social Share"
+msgstr ""
+
+#: inc/options/blog.php:25
+msgid "Blog Page Sidebar"
+msgstr ""
+
+#: inc/options/blog.php:27, inc/options/blog.php:39, inc/options/notice.php:14
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/options/blog.php:28, inc/options/blog.php:40, inc/options/notice.php:15
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/options/blog.php:29, inc/options/blog.php:41, inc/options/notice.php:16
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/options/blog.php:37
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: inc/options/custom-fonts.php:5
+msgid "Custom Fonts"
+msgstr ""
+
+#: inc/options/custom-fonts.php:13
+msgid "Enable or disable custom font options"
+msgstr ""
+
+#: inc/options/custom-fonts.php:20
+msgid "Body Typography"
+msgstr ""
+
+#: inc/options/custom-fonts.php:35
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/options/custom-fonts.php:58
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/options/custom-style.php:5
+msgid "Custom Style"
+msgstr ""
+
+#: inc/options/custom-style.php:13
+msgid "Custom Theme Color"
+msgstr ""
+
+#: inc/options/custom-style.php:20
+msgid "Primary Color"
+msgstr ""
+
+#: inc/options/custom-style.php:66
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/options/footer.php:4
+msgid "Footer"
+msgstr ""
+
+#: inc/options/footer.php:12
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/options/footer.php:14
+msgid "Column 1"
+msgstr ""
+
+#: inc/options/footer.php:15
+msgid "Column 2"
+msgstr ""
+
+#: inc/options/footer.php:16
+msgid "Column 3"
+msgstr ""
+
+#: inc/options/footer.php:17
+msgid "Column 4"
+msgstr ""
+
+#: inc/options/footer.php:24
+msgid "Text Color"
+msgstr ""
+
+#: inc/options/footer.php:31
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/options/footer.php:39
+msgid "Show ThemeXpert Credit?"
+msgstr ""
+
+#: inc/options/footer.php:40
+msgid "Show or hide ThemeXpert credit in footer."
+msgstr ""
+
+#: inc/options/footer.php:47
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/options/footer.php:48
+msgid "Allow html is a, br, em, strong tag"
+msgstr ""
+
+#: inc/options/footer.php:65
+msgid "Enable Social Icon"
+msgstr ""
+
+#: inc/options/general.php:5
+msgid "General Settings"
+msgstr ""
+
+#: inc/options/general.php:12
+msgid "Enable Header"
+msgstr ""
+
+#: inc/options/general.php:19
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/options/general.php:26
+msgid "Enable Header in Single Post"
+msgstr ""
+
+#: inc/options/header.php:5
+msgid "Header options"
+msgstr ""
+
+#: inc/options/header.php:12
+msgid "Select Header"
+msgstr ""
+
+#: inc/options/header.php:13
+msgid "Please select your header."
+msgstr ""
+
+#: inc/options/header.php:15
+msgid "Header V1"
+msgstr ""
+
+#: inc/options/header.php:16
+msgid "Header V2"
+msgstr ""
+
+#: inc/options/header.php:24
+msgid "Header Style"
+msgstr ""
+
+#: inc/options/header.php:26, inc/options/header.php:39
+msgid "Static"
+msgstr ""
+
+#: inc/options/header.php:27, inc/options/header.php:40
+msgid "Fixed"
+msgstr ""
+
+#: inc/options/header.php:28, inc/options/header.php:41
+msgid "Transparent"
+msgstr ""
+
+#: inc/options/header.php:37
+msgid "Header Position"
+msgstr ""
+
+#: inc/options/header.php:51, inc/options/header.php:58
+msgid "Logo"
+msgstr ""
+
+#: inc/options/header.php:65
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/options/header.php:75, inc/options/header.php:86, inc/options/header.php:97, inc/options/header.php:108
+msgid "Sticky Background Color"
+msgstr ""
+
+#: inc/options/header.php:119
+msgid "Menu Text Color"
+msgstr ""
+
+#: inc/options/header.php:129, inc/options/header.php:140
+msgid "Inner Page Menu Text Color"
+msgstr ""
+
+#: inc/options/header.php:151, inc/options/header.php:162, inc/options/header.php:173, inc/options/header.php:184
+msgid "Sticky Menu Text Color"
+msgstr ""
+
+#: inc/options/header.php:196
+msgid "Menu Hover/Active Color"
+msgstr ""
+
+#: inc/options/header.php:203
+msgid "Sign In Link"
+msgstr ""
+
+#: inc/options/header.php:211
+msgid "Register Link"
+msgstr ""
+
+#: inc/options/image.php:4
+msgid "Background Image"
+msgstr ""
+
+#: inc/options/image.php:16
+msgid "Category Page Header Background Image"
+msgstr ""
+
+#: inc/options/image.php:29
+msgid "Sensei Archive Page Header Background Image"
+msgstr ""
+
+#: inc/options/image.php:41
+msgid "LearnPress Archive Page Header Background Image"
+msgstr ""
+
+#: inc/options/image.php:53
+msgid "Shop Page Header Background Image"
+msgstr ""
+
+#: inc/options/image.php:65
+msgid "Event Page Header Background Image"
+msgstr ""
+
+#: inc/options/image.php:77
+msgid "Teachers Archive Page Header Background Image"
+msgstr ""
+
+#: inc/options/image.php:89
+msgid "Search Page Header Background Image"
+msgstr ""
+
+#: inc/options/image.php:101
+msgid "404 Image"
+msgstr ""
+
+#: inc/options/learnpress.php:4
+msgid "Learnpress"
+msgstr ""
+
+#: inc/options/learnpress.php:15
+msgid "Single Course Style"
+msgstr ""
+
+#: inc/options/learnpress.php:17, inc/options/sensei.php:16
+msgid "Style 1"
+msgstr ""
+
+#: inc/options/learnpress.php:18, inc/options/sensei.php:17
+msgid "Style 2"
+msgstr ""
+
+#: inc/options/learnpress.php:19
+msgid "Style 3"
+msgstr ""
+
+#: inc/options/learnpress.php:27
+msgid "Single Page Background Color"
+msgstr ""
+
+#: inc/options/learnpress.php:28
+msgid "Pick a color for theme secondary."
+msgstr ""
+
+#: inc/options/learnpress.php:40
+msgid "Instructors Course Details Page"
+msgstr ""
+
+#: inc/options/learnpress.php:47
+msgid "Course Single Page Header"
+msgstr ""
+
+#: inc/options/learnpress.php:48
+msgid "Enable or disable single learnpress heading"
+msgstr ""
+
+#: inc/options/notice.php:4
+msgid "Notice"
+msgstr ""
+
+#: inc/options/notice.php:12
+msgid "Single Page Sidebar Position"
+msgstr ""
+
+#: inc/options/sensei.php:4
+msgid "Sensei"
+msgstr ""
+
+#: inc/options/sensei.php:14
+msgid "Sensei Archive Template"
+msgstr ""
+
+#: inc/options/settings.php:30
+msgid "Edumodo"
+msgstr ""
+
+#: inc/options/settings.php:31
+msgid "Edumodo Options"
+msgstr ""
+
+#: inc/plugin-activation.php:19
+msgid "Edumodo Core"
+msgstr ""
+
+#: inc/plugin-activation.php:28
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/plugin-activation.php:41
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: inc/plugin-activation.php:48
+msgid "Redux FrameWork"
+msgstr ""
+
+#: inc/plugin-activation.php:55
+msgid "CMB2"
+msgstr ""
+
+#: inc/plugin-activation.php:62
+msgid "LearnPress"
+msgstr ""
+
+#: inc/plugin-activation.php:71
+msgid "LearnPress - Course Review"
+msgstr ""
+
+#: inc/plugin-activation.php:78
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/plugin-activation.php:85
+msgid "weForms"
+msgstr ""
+
+#: inc/plugin-activation.php:92
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/plugin-activation.php:99
+msgid "Instagram Gallery"
+msgstr ""
+
+#: inc/plugin-activation.php:106
+msgid "MailChimp"
+msgstr ""
+
+#: inc/plugin-activation.php:130, plugin/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:131, plugin/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:132, plugin/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugin-activation.php:133, plugin/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugin-activation.php:134
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:135
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:136
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:137
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:138
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:139
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:140
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:141
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:142, plugin/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:143, plugin/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:144, plugin/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugin-activation.php:145, plugin/class-tgm-plugin-activation.php:394, plugin/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:146
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/sensei.php:72
+msgid "Re: %1$s"
+msgstr ""
+
+#: inc/sensei.php:126
+msgid "Archive Style"
+msgstr ""
+
+#: inc/sensei.php:139
+msgid "Grid"
+msgstr ""
+
+#: inc/sensei.php:140
+msgid "Enable Grid"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:50, inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72, template-parts/content-audio.php:56, template-parts/content-gallery.php:63, template-parts/content-image.php:90, template-parts/content-page.php:31, template-parts/content-single-notice.php:95, template-parts/content-single.php:192, template-parts/content-video.php:52, template-parts/content.php:104, template-parts/content.php:174
+msgid "Edit %s"
+msgstr ""
+
+#: inc/theme-support.php:53
+msgid "0 View"
+msgstr ""
+
+#: inc/theme-support.php:77
+msgid "Views"
+msgstr ""
+
+#: inc/theme-support.php:105
+msgid "Speakers"
+msgstr ""
+
+#: inc/theme-support.php:145
+msgid "Organizer"
+msgstr ""
+
+#: inc/theme-support.php:157
+msgid "Phone"
+msgstr ""
+
+#: inc/theme-support.php:163
+msgid "Email"
+msgstr ""
+
+#: inc/theme-support.php:169
+msgid "Website"
+msgstr ""
+
+#: inc/theme-support.php:212
+msgid "Venue"
+msgstr ""
+
+#: inc/widgets/widgets.php:10
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:12
+msgid "Main Widget Area."
+msgstr ""
+
+#: inc/widgets/widgets.php:20
+msgid "Footer Widget 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:30
+msgid "Footer Widget 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:40
+msgid "Footer Widget 3"
+msgstr ""
+
+#: inc/widgets/widgets.php:50
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/widgets/widgets.php:60
+msgid "Course Single Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:70
+msgid "Notice Single Widget"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:341
+msgid "/*translators:1:pluginnames.*/This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:347
+msgid "/*translators:1:pluginnames.*/This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:353
+msgid "/*translators:1:pluginnames.*/The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:359
+msgid "/*translators:1:pluginnames.*/There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:365
+msgid "/*translators:1:pluginnames.*/The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:371
+msgid "/*translators:1:pluginnames.*/The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:393, plugin/class-tgm-plugin-activation.php:920, plugin/class-tgm-plugin-activation.php:2626, plugin/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:395, plugin/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:1027, plugin/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:1214, plugin/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3602, plugin/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3602, plugin/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: plugin/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: sensei/archive-course.php:47
+msgid "No courses found that match your selection."
+msgstr ""
+
+#: sensei/content-style-grid.php:111, sensei/content-style-list.php:101
+msgid "Enroll Course"
+msgstr ""
+
+#: sensei/single-course.php:73, sensei/single-lesson.php:64
+msgid "by"
+msgstr ""
+
+#: sensei/single-course.php:81
+msgid "in %s"
+msgstr ""
+
+#: sensei/single-course.php:111
+msgid "Or"
+msgstr ""
+
+#: sensei/single-course.php:112
+msgid "log in"
+msgstr ""
+
+#: sensei/single-course.php:113
+msgid "to access this course"
+msgstr ""
+
+#: single.php:68
+msgid "You Might Also Like"
+msgstr ""
+
+#: template-parts/content-audio.php:40, template-parts/content-gallery.php:47, template-parts/content-image.php:74, template-parts/content-video.php:36, template-parts/content.php:88, template-parts/content.php:158
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19, template-parts/content-single-teacher.php:89, template-parts/content-single-tx-course.php:92, template-parts/content-single.php:169, template-parts/content.php:77, template-parts/content.php:147
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single-notice.php:45, template-parts/content-single.php:144
+msgid "Date"
+msgstr ""
+
+#: template-parts/content-single-notice.php:55, template-parts/content-single.php:154
+msgid "Posted By"
+msgstr ""
+
+#: template-parts/content-single-notice.php:61, template-parts/content-single.php:158
+msgid "Categories"
+msgstr ""
+
+#: template-parts/content-single-notice.php:85, template-parts/content-single.php:182
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/header/header-v2.php:77
+msgid "Sign In"
+msgstr ""
+
+#: template-parts/header/header-v2.php:78
+msgid "Register"
+msgstr ""
+
+#: tribe-events/day/single-event.php:73, tribe-events/day/single-featured.php:68, tribe-events/list/single-event.php:86, tribe-events/list/single-featured.php:78
+msgid "Find out more"
+msgstr ""
+
+#: tribe-events/modules/bar.php:33, tribe-events/modules/bar.php:48
+msgid "Find %s"
+msgstr ""
+
+#: tribe-events/modules/bar.php:59
+msgid "Event Views Navigation"
+msgstr ""
+
+#: tribe-events/modules/bar.php:60
+msgid "View As"
+msgstr ""
+
+#: tribe-events/single-event.php:40
+msgid "|"
+msgstr ""
+
+#: tribe-events/single-event.php:41
+msgid "Book Now"
+msgstr ""
+
+#: tribe-events/single-event.php:87
+msgid "%s Navigation"
+msgstr ""
